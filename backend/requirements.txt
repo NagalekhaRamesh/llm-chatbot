@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+openai
+python-dotenv
+matplotlib
+plotly
+kaleido  # plotly export images library
